@@ -42,4 +42,4 @@ get school data by province.
 ### How to use
 just download/clone this repository and then run with command below :
 1. `php listProvince.php` [it will show all province]
-2. `php main.php province_number` [it will download all school data from province you have chosen]
+2. `php main.php province_number` [it will download all school data from province you have chosen to be excel file]
