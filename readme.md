@@ -38,3 +38,8 @@ get school data by province.
 33. Prov. Kepulauan Bangka Belitung
 34. Prov. Kalimantan Utara
 35. Luar Negeri
+
+### How to use
+just download/clone this repository and then run with command below :
+1. `php listProvince.php` [it will show all province]
+2. `php main.php province_number` [it will download all school data from province you have chosen]
