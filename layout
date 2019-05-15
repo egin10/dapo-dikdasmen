@@ -3,10 +3,19 @@ content needed :
 - npsn
 - kecamatan
 
-get list Provinsi :
-- nama provinsi
-- link provinsi
+get list of Province :
+- name of provinsi
+- kode province
 
-get list Kabupaten :
-- nama kabupaten
-- link kabupaten
+get list of Districts :
+- name of kabupaten
+- kode districts
+
+get list of Sub-Districts :
+- name of Sub-Districts
+- kode sub-districts
+
+get list of School :
+- npsn
+- name
+- sub-districts
