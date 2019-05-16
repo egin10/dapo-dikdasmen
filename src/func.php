@@ -83,6 +83,7 @@ class GetData
 			$result[] = [
 				'npsn' => trim($sch->npsn),
 				'name' => trim($sch->nama),
+				'district' => trim($sch->induk_kabupaten),
 				'sub_district' => trim($sch->induk_kecamatan),
 				'semester_id' => 20182
 			];
